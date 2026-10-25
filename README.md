@@ -55,8 +55,6 @@ last-admin and self protection); activity log.
   followed by the principle (ENCAPSULATION, INHERITANCE, ABSTRACTION, POLYMORPHISM, COMPOSITION): search for
   `>>> OOP` in your editor. `docs/OOP-highlights.html` (open it in a browser) collects all of them, colour-coded,
   with the code and the file and line of each.
-- **Plain text files (`java.io`)** for the data, the table export (`.txt`), receipts / summaries and document copies.
-- **UML class diagrams** in `docs/` (`UML-1-model` and `UML-2-data-and-ui`, as `.png`, `.svg` and Graphviz `.dot`).
 
 ## Code layout (16 files, `src/main/java/com/mycompany/lawfirmvol2/`)
 Related classes share a file. Only the class named after the file is `public`; the others in it are package-private
