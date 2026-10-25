@@ -1,8 +1,5 @@
 # Del Rosario Law Offices — Case Management Portal (Java Swing)
 
-The look of the original `LawFirmVol2` mock-ups (navy brand block, grey sidebar, flat buttons, gold
-captions, add-record forms) with the working logic of the second project, extended.
-
 ## Run
     mvn package && java -jar target/LawFirmVol3-2.0.jar
 or run `com.mycompany.lawfirmvol2.LawFirmVol2` from NetBeans (JDK 17+).
