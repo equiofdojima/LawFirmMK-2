@@ -1,0 +1,5 @@
+# receipt id|invoice id|date|amount|method|recorded by|payer
+1|1|2026-08-31|40000.0|Bank transfer|Firm Administrator|Elena Santos
+2|2|2026-08-06|60000.0|Check|Firm Administrator|Juan Cruz
+3|4|2026-10-07|20000.0|Cash|Firm Administrator|Pedro Garcia
+4|5|2026-07-17|45000.0|Bank transfer|Firm Administrator|Elena Santos

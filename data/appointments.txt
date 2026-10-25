@@ -1,0 +1,8 @@
+# id|event|case id|date|time|location|status
+1|Probate Hearing|1|2026-10-26|09:00|RTC Makati, Br. 61|Confirmed
+2|Pre-trial Conference|2|2026-10-28|13:30|RTC Manila, Br. 32|Confirmed
+3|Client Consultation|3|2026-10-30|10:00|Conference Room 2|Tentative
+4|Mandatory Conference|4|2026-10-31|14:00|NLRC NCR|Confirmed
+5|Evidence Submission|2|2026-11-03|11:00|RTC Manila, Br. 32|Confirmed
+6|Mediation Session|1|2026-11-06|15:00|Conference Room 1|Tentative
+7|Initial Consultation|4|2026-10-21|10:00|Conference Room 2|Confirmed

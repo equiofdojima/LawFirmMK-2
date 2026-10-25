@@ -1,0 +1,4 @@
+# id|name|email|phone
+1|Elena Santos|elena.santos@mail.example|+63 918 555 0201
+2|Juan Cruz|juan.cruz@mail.example|+63 918 555 0202
+3|Pedro Garcia|pedro.garcia@mail.example|+63 918 555 0203

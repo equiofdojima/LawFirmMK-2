@@ -1,0 +1,6 @@
+# id|title|client id|lawyer id|type|fee|status|opposing party|court|date filed|date opened|description
+1|Santos Estate Settlement|1|2|Probate|85000.0|Active|Heirs of R. Santos|RTC Makati, Br. 61|2026-07-25|2026-10-25|Settlement of the estate of the late Rodrigo Santos.
+2|Cruz v. Pacific Holdings|2|3|Civil|120000.0|Active|Pacific Holdings Inc.|RTC Manila, Br. 32|2026-05-25|2026-10-25|Collection of sum of money and damages.
+3|Deed of Sale Review|2|2|Property|15000.0|Pending||||2026-10-25|Review of the deed of absolute sale for the Quezon City lot.
+4|Garcia Labor Dispute|3|4|Labor|60000.0|Active|Metro Logistics Corp.|NLRC NCR|2026-09-25|2026-10-25|Illegal dismissal and unpaid benefits.
+5|Santos Family Trust|1|3|Family|45000.0|Handled||||2026-10-25|Establishment of a family trust (concluded).

@@ -1,0 +1,6 @@
+# id|case id|description|issued|due|amount
+1|1|Legal fees|2026-08-26|2026-09-25|85000.0
+2|2|Legal fees|2026-07-27|2026-11-09|120000.0
+3|3|Document review fee|2026-10-23|2026-11-22|15000.0
+4|4|Legal fees|2026-10-05|2026-11-04|60000.0
+5|5|Legal fees|2026-06-27|2026-07-27|45000.0

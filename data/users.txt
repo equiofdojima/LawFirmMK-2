@@ -1,0 +1,6 @@
+# id|username|full name|email|phone|role|password hash|active|blocked|failed tries
+1|admin|Firm Administrator|admin@delrosario.example|+63 2 8555 0100|ADMIN|uYYRPs4mU5A/41S3yXdQFw==://+4FbW5aGF5TR0m0fVK/kMKevOONhxaijx5XUeWkvc=|true|false|0
+2|reyes|Atty. Maria Reyes|mreyes@delrosario.example|+63 917 555 0101|LAWYER|l2uvyKiM225khS2HTY0ONQ==:VeJYPvd+n7OqsySZqX/GnkOr7t8QQ+epFrnRa0YH5Z8=|true|false|0
+3|navarro|Atty. Luis Navarro|lnavarro@delrosario.example|+63 917 555 0102|LAWYER|taij3WAjtP767+5qdWtmaA==:MQwn5zqswgT7du1Q9YsfGDNd6gnUBioUqbxJBXaduYU=|true|false|0
+4|elizon|Atty. Carla Elizon|celizon@delrosario.example|+63 917 555 0103|LAWYER|0M4bA1WPrUIWBfPl+3D4bw==:DyO76E2h8OaztDjW2YShX2fFpUOHXkyav/0pFQ/3Oqo=|true|false|0
+5|equiofdojima|Atty. equi dojima|equiofdojima@delrosario.example.com|0949 487 8329|LAWYER|6DZszNmNbhRvdtLeYg0a0A==:szeWlcHod3P/r5VMlRbK1Lez2Hyqr/bS3NyCd+z16p8=|true|false|0

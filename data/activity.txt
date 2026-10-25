@@ -1,0 +1,17 @@
+# timestamp|user|action
+2026-10-25T01:56:40|System|Demo data created
+2026-10-25T01:56:48|Firm Administrator|Signed in
+2026-10-25T01:58:13|Firm Administrator|Created LAWYER account equiofdojima
+2026-10-25T09:13:20|Atty. equi dojima|Signed in
+2026-10-25T09:13:48|Atty. equi dojima|Signed out
+2026-10-25T09:13:53|Firm Administrator|Signed in
+2026-10-25T09:31:29|Firm Administrator|Signed in
+2026-10-25T09:32|Firm Administrator|Signed out
+2026-10-25T09:32:12|System|Account equiofdojima was blocked after 3 wrong passwords
+2026-10-25T09:32:18|Firm Administrator|Signed in
+2026-10-25T09:32:39|Firm Administrator|Unblocked account equiofdojima
+2026-10-25T09:42:58|Firm Administrator|Signed out
+2026-10-25T09:43:09|Atty. Maria Reyes|Signed in
+2026-10-25T09:43:36|Atty. Maria Reyes|Signed out
+2026-10-25T09:47:12|Atty. equi dojima|Signed in
+2026-10-25T10:14:05|Firm Administrator|Signed in
